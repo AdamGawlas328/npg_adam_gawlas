@@ -1,1 +1,1 @@
-Przykladowy tekst
+Przykladowy tekst GITARA
