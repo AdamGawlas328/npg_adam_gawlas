@@ -1,1 +1,2 @@
-Przykladowy tekst NIEGITARA
+
+Przykladowy tekst NIEGIT  ARA
