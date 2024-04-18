@@ -1,8 +1,8 @@
 *dowolny_plik_tekstowy.txt
 
 #nazwa
-log
-build
+*log*
+*build*
 
 #typ
 *.pdf
