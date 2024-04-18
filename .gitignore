@@ -1,1 +1,10 @@
 *dowolny_plik_tekstowy.txt
+
+#nazwa
+*log
+*build
+
+#typ
+*.pdf
+*.tmp
+*.log
